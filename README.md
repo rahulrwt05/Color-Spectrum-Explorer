@@ -31,7 +31,7 @@ Explore Color Spectrum Explorer [here](#).
 
 ## Screenshots
 
-![[Color Spectrum Explorer](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/color_spectrum1.jpg)](#)
+![Color Spectrum Explorer](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/color_spectrum1.jpg).(#)
 *Screenshot showcasing Color Spectrum Explorer*
 
 ## Installation
