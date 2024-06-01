@@ -50,3 +50,10 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+
+<br />
+
+[website]: https://rahulrwt05.vercel.app/
+[linkedin]: https://www.linkedin.com/in/rahulrwt05/
+
+Happy coding! 🚀
