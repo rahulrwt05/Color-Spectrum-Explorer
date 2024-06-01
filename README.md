@@ -27,7 +27,7 @@ Color Spectrum Explorer generates random colors and displays their corresponding
 
 ## Demo
 
-Explore Color Spectrum Explorer [here](#).
+Explore Color Spectrum Explorer [here](https://rahulrwt05.github.io/Color-Spectrum-Explorer/).
 
 ## Screenshots
 
