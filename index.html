@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Color Spectrum Explorer</title>
+  </head>
+  <body>
+    <header>Color Spectrum Explorer</header>
+    <div class="controls">
+      <button id="startBtn">Start</button>
+      <div class="boxContainer"></div>
+      <button id="stopBtn">Stop</button>
+    </div>
+
+    <div class="description">
+      <p>
+        Click on the "Start" button to begin generating random colors along with
+        their hex codes. The colors will change every 2 seconds. Clicking "Stop"
+        will halt the color-changing process, allowing you to get the code of
+        your desired color.
+      </p>
+      <p>
+        A hex code is a six-digit combination of numbers and letters that
+        represents a color in the RGB color model. It starts with a hash symbol
+        (#) and is followed by three pairs of characters, each representing the
+        intensity of red, green, and blue. There are a total of
+        <strong>16,777,216</strong> possible unique color combinations.
+      </p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
